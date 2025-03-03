@@ -7,8 +7,8 @@ from webserver import keep_alive
 
 import os
 
-prefix = input(f'Enter Prefix: ')
-token = input(f'token: ')
+prefix = input(f'%')
+token = input(f'MTIyMjg2NjUzNTQ4ODY4ODIxOA.GvxgmP.VcaXa2aWkV-JfwzpPosDxC_wi6CbDmFbo4xewU')
 
 
 #---------------#
